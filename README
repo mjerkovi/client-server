@@ -1,0 +1,4 @@
+cixd.cpp contains the server side code
+cix.cpp contains the client side code
+
+compiles successfully using make command in CentosOS release 7.3.1611 and GCC 5.3.1
